@@ -1,1 +1,1 @@
-worker: python3 -m HitsukiX
+worker: python3 -m hitsuki
